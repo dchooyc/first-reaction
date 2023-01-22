@@ -1,0 +1,14 @@
+table {
+  background-color: aqua;
+}
+
+thead th {
+  color: brown;
+}
+
+.wonderful {
+  height: 100%;
+  width: 100%;
+  padding: 100px;
+  border-radius: 25px;
+}

@@ -1,9 +1,10 @@
 import React from 'react';
+import '../Table.css';
 
 class Table extends React.Component {
     render() {
         return (
-            <table>
+            <table className="wonderful">
               <thead>
                 <tr>
                   <th>Name</th>
